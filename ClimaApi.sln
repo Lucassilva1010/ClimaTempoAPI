@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimaApi", "ClimaApi.csproj", "{BFCDF91F-B10B-4AE7-9A7D-CC1002C6E6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimaBlazor", "..\ClimaBlazor\ClimaBlazor.csproj", "{2A3A96DC-936E-4AB7-886D-3C7EC970E804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCDF91F-B10B-4AE7-9A7D-CC1002C6E6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCDF91F-B10B-4AE7-9A7D-CC1002C6E6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCDF91F-B10B-4AE7-9A7D-CC1002C6E6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCDF91F-B10B-4AE7-9A7D-CC1002C6E6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3A96DC-936E-4AB7-886D-3C7EC970E804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3A96DC-936E-4AB7-886D-3C7EC970E804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3A96DC-936E-4AB7-886D-3C7EC970E804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3A96DC-936E-4AB7-886D-3C7EC970E804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2683C00-3E57-4447-B2B6-63DB5A64326C}
+	EndGlobalSection
+EndGlobal
